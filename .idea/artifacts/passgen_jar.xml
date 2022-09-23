@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="passgen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/passgen_jar</output-path>
+    <root id="archive" name="passgen.jar">
+      <element id="module-output" name="passgen" />
+    </root>
+  </artifact>
+</component>
